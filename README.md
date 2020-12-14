@@ -1,2 +1,1 @@
-# hello-world
-damn i really dont know what to say lol
+Im a young person who is trying to learn programming
